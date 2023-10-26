@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 上市公司新闻文本分析与分类预测
 
  ![image](https://github.com/DemonDamon/Listed-company-news-crawl-and-text-analysis/blob/master/docs/images/FINNEWS-HUNTER.jpg)
@@ -235,3 +236,7 @@
     - 监听redis消息队列[realtime_starter_redis_queue.py](https://github.com/DemonDamon/Listed-company-news-crawl-and-text-analysis/blob/master/src/Gon/realtime_starter_redis_queue.py)
   - 新增[realtime_spyder_stopall.bat](https://github.com/DemonDamon/Listed-company-news-crawl-and-text-analysis/blob/master/src/realtime_spyder_stopall.bat)批量终止爬虫程序
  - 更新前使用jieba分词系统，在实体识别上需要不断维护新词表来提高识别精度；更新后，使用基于BERT预训练的FinBERT对金融领域实体进行识别
+=======
+# Listed-company-public-opinion-analysis
+对上市公司舆情分析
+>>>>>>> 8552bab35a80ebe5f2823a4919781333e7c7c202
