@@ -1,9 +1,5 @@
 <<<<<<< HEAD
-# 上市公司新闻文本分析与分类预测
-
- ![image](https://github.com/DemonDamon/Listed-company-news-crawl-and-text-analysis/blob/master/docs/images/FINNEWS-HUNTER.jpg)
-
-[![Star History Chart](https://api.star-history.com/svg?repos=DemonDamon/Listed-company-news-crawl-and-text-analysis&type=Date)]([https://star-history.com/#linhandev/dataset&Date](https://star-history.com/#DemonDamon/Listed-company-news-crawl-and-text-analysis&Date))
+# 上市公司舆情分析与分类预测
 
 -------------------------------
 
